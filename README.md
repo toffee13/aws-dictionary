@@ -20,3 +20,9 @@ AWS는 유료이지만 프리티어로 1년간 체험해볼 수 있는 기회를
 2. 이름 클릭 -> Billing & Cost Management
 
 ![Billing Cost Management](./images/billing-cost-management.png)
+
+3. 기본 설정 -> 결제 알림 받기 -> 기본 설정 저장 -> 결제 알림 관리
+![Billing Alarm Setting](./images/billing-alarm-setting.png)
+
+4. Create Alarm -> exceed / mail 설정 후 완료 및 mail confirm
+![Billing Alarm Setting](./images/create-alarm.png)

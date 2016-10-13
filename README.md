@@ -25,3 +25,5 @@ AWS는 유료이지만 프리티어로 1년간 체험해볼 수 있는 기회를
 
 4. Create Alarm -> exceed / mail 설정 후 완료 및 mail confirm  
 ![Billing Alarm Setting](./images/create-alarm.png)
+
+## AWS Free Tier 사용하기

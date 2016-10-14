@@ -33,3 +33,10 @@ AWS는 유료이지만 프리티어로 1년간 체험해볼 수 있는 기회를
 ---
 
 ## AWS Free Tier 사용하기
+
+### EC2를 이용해 리눅스 VM 만들기
+
+1. AWS Management Console에 접속하여 EC2 선택
+
+2. 상단의 이름 옆에 자신에 맞는 region을 선택한 후 Launch Instance 클릭
+![Launch Instance](./images/launch-instance.png)

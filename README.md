@@ -45,5 +45,5 @@ AWS는 유료이지만 프리티어로 1년간 체험해볼 수 있는 기회를
 ![Amazon Linux AMI](./images/amazon-linux-ami.png)  
 ![EC2 T2 Micro](./images/ec2-t2-micro.png)
 
-4. Create a new key pair 로 pem 생성
+4. Create a new key pair 로 pem 생성 후 view instances
 ![EC2 T2 Micro](./images/Getting-Started-VM9.png)

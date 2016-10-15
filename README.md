@@ -55,3 +55,6 @@ AWS는 유료이지만 프리티어로 1년간 체험해볼 수 있는 기회를
 Windows : [Git Bash](https://git-scm.com/download/win) / [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) 로 접속
 
 Mac / Linux : 기본 제공되는 터미널로 접속
+
+1. ssh -i {pem 파일 경로} ec2-user@{IP_Address} 를 이용해 접속
+![ssh](./images/Getting-Started-VM7.png)

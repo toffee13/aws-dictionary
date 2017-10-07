@@ -43,7 +43,7 @@ AWS는 유료이지만 프리티어로 1년간 체험해볼 수 있는 기회를
 2. 상단의 이름 옆에 자신에 맞는 region을 선택한 후 Launch Instance 클릭
 ![Launch Instance](./images/launch-instance.png)
 
-3. Amazone Linux AMI 선택 / t2.micro 선택  
+3. Amazone Linux AMI 선택 / t2.micro 선택 (나중에 우분투로 바꿨습니다. 우분투 짱짱맨)
 ![Amazon Linux AMI](./images/amazon-linux-ami.png)  
 ![EC2 T2 Micro](./images/ec2-t2-micro.png)
 

@@ -58,4 +58,10 @@ Windows : [Git Bash](https://git-scm.com/download/win) / [PuTTY](http://www.chia
 
 File -> Load Private Key -> 모든파일 -> 다운받은 pem 파일 클릭 -> Save private Key 클릭
 
-![ssh](./images/generate-ppk.png)
+![Generate PPK](./images/generate-ppk.png)
+
+Putty 설정
+
+Host Name에 ubuntu@{EC2에 생성된 퍼블릭 DNS} (@앞 계정은 설치한 인스턴스의 OS마다 다름)
+
+좌측의 Connection -> SSH -> Auth 의 Private Key에 위에서 생성한 ppk 파일 링크하면 접속 성공!

@@ -54,8 +54,8 @@ AWS는 유료이지만 프리티어로 1년간 체험해볼 수 있는 기회를
 
 Windows : [Git Bash](https://git-scm.com/download/win) / [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) 로 접속
 
-Mac / Linux : 기본 제공되는 터미널로 접속
-~~~ bash
-ssh -i {pem 파일 경로} ec2-user@{IP_Address} 를 이용해 접속
-~~~
+생성된 pem 파일을 PuTTYgen 을 이용하여 ppk 파일로 생성
+
+File -> Load Private Key -> 모든파일 -> 다운받은 pem 파일 클릭 -> Save private Key 클릭
+
 ![ssh](./images/Getting-Started-VM7.png)

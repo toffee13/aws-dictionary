@@ -58,4 +58,4 @@ Windows : [Git Bash](https://git-scm.com/download/win) / [PuTTY](http://www.chia
 
 File -> Load Private Key -> 모든파일 -> 다운받은 pem 파일 클릭 -> Save private Key 클릭
 
-![ssh](./images/Getting-Started-VM7.png)
+![ssh](./images/generate-ppk.png)
